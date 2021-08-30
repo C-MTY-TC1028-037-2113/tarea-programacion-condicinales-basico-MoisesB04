@@ -3,7 +3,7 @@
 
 Modifica el programa que se encuentra en la carpeta `src` que se llama
 `exercise.py` y que contiene el siguiente código:
-
+ 
 ```python
 
 def main():
